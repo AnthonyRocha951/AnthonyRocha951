@@ -1,4 +1,4 @@
-## Ola! Eu sou o Anthony Rocha   😎
+## Ola! Eu sou o Anthony Rocha
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rochaanthony_/)
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/rochaap1)
